@@ -11,3 +11,5 @@ Assignment for the Coursera Developing Data Product course
 
 * Link to the shinyapps server where the application can work so the peers can do the review
 
+* Seven RDS files containing the different sources of data for the assignment
+
